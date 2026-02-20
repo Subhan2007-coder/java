@@ -1,1 +1,2 @@
 hello friends
+bilal added new method
