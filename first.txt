@@ -1,2 +1,3 @@
 hello friends
 bilal added new method
+bilal added second method for better performance
